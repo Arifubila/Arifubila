@@ -1,18 +1,10 @@
-<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=👋+Welcome+to+My+GitHub!;🙋+I'm+Arifubila+Ramadhani+Sigand;💻+Full+Stack+Web+Developer;🚀+Building+Modern+Web+Applications;🌱+Always+Learning+New+Technologies" />
+  <img src="https://komarev.com/ghpvc/?username=Arifubila&label=👀+Visitors&style=for-the-badge&color=38BDF8"/>
 </p>
 
-<!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Arifubila/Arifubila/main/assets/banner.gif" width="70%" alt="Banner"/>
-</p>
-
-<!-- Badges -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arifubila&label=%F0%9F%91%80+Profile+Views&style=for-the-badge&color=0ea5e9"/>
-  <img src="https://img.shields.io/github/followers/Arifubila?label=Followers&style=for-the-badge&color=1e40af&logo=github"/>
-  <img src="https://img.shields.io/github/stars/Arifubila?affiliations=OWNER&label=Stars&style=for-the-badge&color=f59e0b&logo=github"/>
+  <img src="https://img.shields.io/github/followers/Arifubila?style=for-the-badge&logo=github&label=Followers&color=6366F1"/>
+  <img src="https://img.shields.io/github/stars/Arifubila?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars&color=F59E0B"/>
 </p>
 
 
