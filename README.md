@@ -21,7 +21,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Arifubila&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-👀 Visitor Badge
+## 👀 Visitor Badge
 <p align="center">
 <img src="https://media.tenor.com/...gif" width="120">
 <br>
