@@ -27,4 +27,4 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## 🐍 Contribution Snake
 
-![](https://github.com/Arifubila/Arifubila/blob/output/github-contribution-grid-snake.gif)
+![](https://github.com/Arifubila/Arifubila/blob/output/github-contribution-grid-snake.svg)
