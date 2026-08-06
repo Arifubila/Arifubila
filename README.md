@@ -21,7 +21,9 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Arifubila&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
----![](https://komarev.com/ghpvc/?username=Arifubila&style=flat-square&color=blue)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Arifubila&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## 🐍 Contribution Snake
