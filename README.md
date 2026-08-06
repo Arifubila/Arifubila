@@ -91,9 +91,7 @@ Full Stack Web Developer • Passionate About Building Modern Web Applications
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Arifubila&theme=tokyonight&no-frame=true&margin-w=8"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=Arifubila&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
 </p>
 
 ---
