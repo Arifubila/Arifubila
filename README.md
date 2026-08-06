@@ -1,6 +1,11 @@
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub!;I'm+Arifubila+Ramadhani+Sigand;Full+Stack+Web+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
+  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-0ea5e9?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Open%20Source-Lover-success?style=for-the-badge">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub!;I'm+Arifubila+Ramadhani+Sigand;Full+Stack+Web+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies">
 </p>
 
 <!-- Banner -->
