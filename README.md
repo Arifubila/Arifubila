@@ -21,9 +21,11 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Arifubila&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
+##Profile View
 <p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="40">
-  <img src="https://komarev.com/ghpvc/?username=Arifubila&label=Profile+Views&style=for-the-badge&color=0e75b6">
+<img src="https://media.tenor.com/...gif" width="120">
+<br>
+<img src="https://komarev.com/ghpvc/?username=Arifubila&style=for-the-badge">
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
