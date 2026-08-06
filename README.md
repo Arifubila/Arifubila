@@ -14,7 +14,7 @@ Full Stack Web Developer • Passionate About Building Modern Web Applications
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
 💡 I'm **Arifubila Ramadhani Sigand**, a passionate **Full Stack Web Developer** who enjoys transforming ideas into modern, scalable, and user-friendly web applications.
 
@@ -30,7 +30,7 @@ Full Stack Web Developer • Passionate About Building Modern Web Applications
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
@@ -50,7 +50,7 @@ Full Stack Web Developer • Passionate About Building Modern Web Applications
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 <p align="center">
 
@@ -60,7 +60,7 @@ Full Stack Web Developer • Passionate About Building Modern Web Applications
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
 
@@ -78,7 +78,7 @@ Full Stack Web Developer • Passionate About Building Modern Web Applications
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
 
@@ -89,7 +89,7 @@ Full Stack Web Developer • Passionate About Building Modern Web Applications
 ---
 
 
-# 💬 Random Dev Quote
+## 💬 Random Dev Quote
 
 <p align="center">
 
@@ -99,7 +99,7 @@ Full Stack Web Developer • Passionate About Building Modern Web Applications
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
 
