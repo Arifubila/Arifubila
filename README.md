@@ -1,6 +1,4 @@
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=950&lines=✨+Welcome+to+My+GitHub+Universe!;👨‍💻+I'm+Arifubila+Ramadhani+Sigand;🚀+Full+Stack+Web+Developer;🌐+Crafting+Modern+Web+Experiences;📚+Always+Learning,+Always+Growing" />
-</p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Full+Stack+Web+Developer;Laravel+%7C+React+%7C+Node.js;Always+Learning+New+Technologies" />
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Arifubila/Arifubila/main/assets/banner.gif" width="60%" alt="Banner">
