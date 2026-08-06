@@ -18,17 +18,19 @@
 
 ### 🚀 About Me
 
-💡 I'm **Arifubila Ramadhani Sigand**, a passionate **Full Stack Web Developer** who enjoys transforming ideas into modern, scalable, and user-friendly web applications.
+<p align="left">
 
-🚀 I love building responsive interfaces, developing robust backend systems, and creating seamless user experiences from front-end to back-end.
+💻 <b>Full Stack Web Developer</b> passionate about building modern web applications.<br><br>
 
-🌱 Currently expanding my knowledge in **Laravel, React, Node.js, REST APIs, System Design, and Cloud Technologies.**
+🚀 Experienced with <b>Laravel, React, Node.js, REST APIs, and MySQL</b>.<br><br>
 
-🛠 I enjoy learning new technologies, solving real-world problems, and continuously improving my development workflow.
+🌱 Currently learning <b>System Design, Cloud Technologies, and DevOps</b>.<br><br>
 
-🎯 My goal is to become a professional Full Stack Engineer capable of building high-quality applications that make a real impact.
+🛠 Love solving real-world problems through clean and scalable code.<br><br>
 
-☕ Fun Fact: The best code usually comes with coffee and lo-fi music.
+☕ Coffee + Lo-fi Music = Perfect Coding Session.
+
+</p>
 
 ---
 
