@@ -20,13 +20,13 @@
 
 <p align="left">
 
-💻 <b>Full Stack Web Developer</b> passionate about building modern web applications.<br><br>
+💻 <b>Full Stack Web Developer</b> passionate about building modern web applications.<br>
 
-🚀 Experienced with <b>Laravel, React, Node.js, REST APIs, and MySQL</b>.<br><br>
+🚀 Experienced with <b>Laravel, React, Node.js, REST APIs, and MySQL</b>.<br>
 
-🌱 Currently learning <b>System Design, Cloud Technologies, and DevOps</b>.<br><br>
+🌱 Currently learning <b>System Design, Cloud Technologies, and DevOps</b>.<br>
 
-🛠 Love solving real-world problems through clean and scalable code.<br><br>
+🛠 Love solving real-world problems through clean and scalable code.<br>
 
 ☕ Coffee + Lo-fi Music = Perfect Coding Session.
 
