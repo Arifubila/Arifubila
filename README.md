@@ -1,35 +1,39 @@
-<h1 align="center">Hi 👋, I'm Arif Ramadhani Sigand</h1>
-<h3 align="center">Fresh Graduate Informatics Engineering | IT Support • Network Engineer • Software QA</h3>
+<h1 align="center">Hi 👋, I'm Arifubila Ramadhani Sigand</h1>
+
+<h3 align="center">
+Full Stack Web Developer • Passionate About Building Modern Web Applications
+</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;IT+Support+%7C+Network+Engineer;Software+QA+Enthusiast;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Full+Stack+Web+Developer;Laravel+%7C+React+%7C+Node.js;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Arifubila&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
+<img src="https://komarev.com/ghpvc/?username=Arifubila&label=Profile+Views&style=for-the-badge&color=0ea5e9"/>
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-💡 Fresh Graduate in **Informatics Engineering** with a strong interest in **IT Support, Network Engineering, and Software Quality Assurance.**
+💡 I'm **Arifubila Ramadhani Sigand**, a passionate **Full Stack Web Developer** who enjoys transforming ideas into modern, scalable, and user-friendly web applications.
 
-🖥️ Passionate about troubleshooting, computer networking, Linux, and building reliable software solutions.
+🚀 I love building responsive interfaces, developing robust backend systems, and creating seamless user experiences from front-end to back-end.
 
-🌱 Currently learning **Cisco Networking, Linux Administration, Python Automation, Git, and Cloud Technologies.**
+🌱 Currently expanding my knowledge in **Laravel, React, Node.js, REST APIs, System Design, and Cloud Technologies.**
 
-📚 My final project focused on implementing a **Decision Tree algorithm** for tomato ripeness classification using **Python, OpenCV, and Flask.**
+🛠 I enjoy learning new technologies, solving real-world problems, and continuously improving my development workflow.
 
-🎯 My goal is to become a professional **IT Infrastructure Engineer** while continuously improving my technical skills.
+🎯 My goal is to become a professional Full Stack Engineer capable of building high-quality applications that make a real impact.
 
-☕ Fun Fact: Coffee, lo-fi music, and debugging make a perfect combination.
+☕ Fun Fact: The best code usually comes with coffee and lo-fi music.
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
+
 <a href="mailto:arifubilaa@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -41,65 +45,70 @@
 <a href="https://instagram.com/arifubilaa">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-</p>
-
----
-
-## 💻 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,html,css,js,flask,git,github,vscode,linux,mysql,figma,opencv,c,cpp"/>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=postman,bootstrap,tailwind,react,nodejs,laravel"/>
 
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+# 💻 Tech Stack
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Arifubila&theme=tokyonight&show_icons=true&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,laravel,php,mysql,mongodb,git,github,vscode,figma,postman,tailwind,bootstrap,vite&perline=10"/>
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Arifubila&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arifubila&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
+
 <img src="https://streak-stats.demolab.com?user=Arifubila&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 📈 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arifubila&theme=tokyo-night&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
+
 <img src="https://github-profile-trophy.vercel.app/?username=Arifubila&theme=tokyonight&no-frame=true&margin-w=8"/>
+
 </p>
 
 ---
 
-## 💬 Dev Quote
+# 💬 Random Dev Quote
 
 <p align="center">
+
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
 <p align="center">
 
