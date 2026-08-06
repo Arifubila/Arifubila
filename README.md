@@ -12,6 +12,10 @@ Full Stack Web Developer • Passionate About Building Modern Web Applications
 <img src="https://komarev.com/ghpvc/?username=Arifubila&label=Profile+Views&style=for-the-badge&color=0ea5e9"/>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Arifubila/Arifubila/main/assets/banner.gif" width="100%" alt="Banner">
+</p>
+
 ---
 
 ## 🚀 About Me
