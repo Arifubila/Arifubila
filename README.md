@@ -88,14 +88,6 @@ Full Stack Web Developer • Passionate About Building Modern Web Applications
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arifubila&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arifubila&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 # 💬 Random Dev Quote
 
