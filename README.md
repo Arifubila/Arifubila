@@ -1,20 +1,15 @@
-<h1 align="center">Hi 👋, I'm Arifubila Ramadhani Sigand</h1>
-
-<h3 align="center">
-Full Stack Web Developer • Passionate About Building Modern Web Applications
-</h3>
-
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Full+Stack+Web+Developer;Laravel+%7C+React+%7C+Node.js;Always+Learning+New+Technologies" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Arifubila/Arifubila/main/assets/banner.gif" width="100%" alt="Banner">
 </p>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Arifubila&label=Profile+Views&style=for-the-badge&color=0ea5e9"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Arifubila/Arifubila/main/assets/banner.gif" width="100%" alt="Banner">
-</p>
 
 ---
 
