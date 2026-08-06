@@ -16,7 +16,7 @@
 </p>
 ---
 
-## 🚀 About Me
+### 🚀 About Me
 
 💡 I'm **Arifubila Ramadhani Sigand**, a passionate **Full Stack Web Developer** who enjoys transforming ideas into modern, scalable, and user-friendly web applications.
 
@@ -32,7 +32,7 @@
 
 ---
 
-## 🌐 Connect With Me
+### 🌐 Connect With Me
 
 <p align="center">
 
@@ -52,7 +52,7 @@
 
 ---
 
-## 💻 Tech Stack
+### 💻 Tech Stack
 
 <p align="center">
 
@@ -62,7 +62,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+### 📊 GitHub Analytics
 
 <p align="center">
 
@@ -80,7 +80,7 @@
 
 ---
 
-## 📈 Contribution Graph
+### 📈 Contribution Graph
 
 <p align="center">
 
@@ -91,7 +91,7 @@
 ---
 
 
-## 💬 Random Dev Quote
+### 💬 Random Dev Quote
 
 <p align="center">
 
@@ -101,7 +101,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+### 🐍 Contribution Snake
 
 <p align="center">
 
