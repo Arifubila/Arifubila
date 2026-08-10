@@ -106,5 +106,8 @@
 ## 🟡 Pac-Man Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Arifubila/Arifubila/pacman-output/pacman-contribution-graph.svg" width="100%">
+  <img
+    src="https://raw.githubusercontent.com/Arifubila/Arifubila/pacman-output/pacman-contribution-graph.svg"
+    width="100%"
+  />
 </p>
