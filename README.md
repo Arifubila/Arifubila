@@ -103,7 +103,6 @@
 
 ---
 
-## 🟡 Pac-Man Contribution Graph
 
 <p align="center">
   <img
