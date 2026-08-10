@@ -117,7 +117,7 @@
   />
 
   <img
-    alt="Pac-Man contribution graph"
+    alt="Pac-Man Contribution Graph"
     src="https://raw.githubusercontent.com/Arifubila/Arifubila/pacman-output/pacman-contribution-graph.svg"
   />
 </picture>
